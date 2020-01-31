@@ -18,11 +18,13 @@ LTFS receives a lot of requests for its various finance offerings that include h
 
 # Leaderboard
 
-- Public LB score/pos: 15.526	  (# 74/883)         
+- Public LB score: 15.526	  (# pos: 74/883)         
 
-- Private LB score/pos: 27.565  (# 67/883)
+- Private LB score: 27.565  (# pos: 67/883)
 
 
 ## Best scoring model:
-Public/Private LB score: 18.313/26.175 (# 40/883)
 
+- Public LB score: 18.313
+
+- Private LB score: 26.175 (# pos: 40/883)
