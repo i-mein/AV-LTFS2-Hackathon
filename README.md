@@ -23,7 +23,7 @@ LTFS receives a lot of requests for its various finance offerings that include h
 - Private LB score: 27.565  (# pos: 67/883)
 
 
-## Best scoring model:
+## Best scoring model (RF tuned by segment with 11 features):
 
 - Public LB score: 18.313
 
